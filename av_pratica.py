@@ -107,4 +107,4 @@ except:
     quit()
 
 driver.quit()
-print('Ativiade realizada com sucesso!')
+print('Atividade realizada com sucesso!')
