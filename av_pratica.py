@@ -29,7 +29,7 @@ except:
     print('Erro ao fechar  pop-up do IPTU')
     quit()
 
-print('Passo 1: Simular o mouse passando no menu Governo ')
+print('Passo 2: Simular o mouse passando no menu Governo ')
 try:
 
     # Simular o mouse passando no menu Governo
